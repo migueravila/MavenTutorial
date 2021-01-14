@@ -1,7 +1,5 @@
 # ⚡ Hello World de Maven
 
-#Workshop
-
 El día de hoy aprenderemos a usar Maven pues es casi un estandar en la construcción de proyectos en Java. Una de las principales ventajas es el manejo de dependencias como JUnit los cuales nos sirven para usar testeo, y otras dependencias que se encuentran en MavenRepository. Todo esto de forma centralizada en un documento llamado POM.xml
 
 ## 📦 ¿Como instalar Maven?
