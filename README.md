@@ -2,6 +2,8 @@
 
 El día de hoy aprenderemos a usar Maven pues es casi un estandar en la construcción de proyectos en Java. Una de las principales ventajas es el manejo de dependencias como JUnit los cuales nos sirven para usar testeo, y otras dependencias que se encuentran en MavenRepository. Todo esto de forma centralizada en un documento llamado POM.xml
 
+> Sesión en video: [Youtube](https://youtu.be/6A28Z9hhN2w)
+
 ## 📦 ¿Como instalar Maven?
 Uno de los pocos requesitos necesarios para usar **Maven** es que debes tener instalado Java JDK en el sistema (lo cual puedes comprobar corriendo el comando `java --version`). 
 
